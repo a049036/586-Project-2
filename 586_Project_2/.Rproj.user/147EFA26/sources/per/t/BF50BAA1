@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512921520541.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "93621378",
+    "id" : "BF50BAA1",
+    "lastKnownWriteTime" : 1513485592,
+    "last_content_update" : 1513485592564,
+    "path" : "~/Documents/Study/586/Project2/586_Project_2/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "26,21",
+        "scrollLine" : "19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
